@@ -1,2 +1,3 @@
 # fuckness
 Az otthonod legyen az edzőtermed! Az ágyadban fekve nyomhatsz, meg ülve, meg térdelve! De nyomhatsz állva is...
+
